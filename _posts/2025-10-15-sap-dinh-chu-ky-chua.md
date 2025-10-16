@@ -79,6 +79,9 @@ Với mindset này, vùng mua lý tưởng với Duke đó là ở MA200 khung t
 Chúng ta nên biết rằng, $BTC đã duy trì ở mức giá trên $70K được gần 1 năm rồi. Vậy có nghĩa rằng khi $BTC bắt đầu điều chỉnh, đường MA200 khung tuần này sẽ tiếp tục dâng lên. Và khi thị trường tạo đáy, có thể là cuối năm 2026, đầu 2027. Lúc này đường MA200 có thể đã kéo lên mốc $70K rồi. Anh em đã thấy hợp lý hơn chưa?
 {: .prompt-tip}
 
+![Figure 3](/fig-03.png){: .center}
+_Đường MA200 sẽ dâng lên dần_
+
 Với vision này, thì mình sẽ xem xét chốt phần lớn những vị thế của mình nếu có cơ hội khi $BTC hồi phục lên $119K và phá ATH. Phần còn lại sẽ chốt nốt khi $BTC test thất bại MA50 khung tuần. Sau đó, mình sẽ nghỉ ngơi để xem xét data trong năm 2026 nhé anh em.
 
 Mình sẽ lưu lại để 1 năm sau nhìn lại, chắc sẽ thú vị lắm 😁
