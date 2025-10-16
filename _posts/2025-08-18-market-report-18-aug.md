@@ -6,7 +6,7 @@ author: duke
 date: 2025-08-18 00:00:00 +0700
 categories: [Market Report]
 tags: [market-report]
-pin: true
+pin: false
 media_subpath: 'assets/img/posts/2025-08-18-market-report'
 image:
   path: /banner.png
