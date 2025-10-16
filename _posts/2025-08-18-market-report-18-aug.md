@@ -1,5 +1,5 @@
 ---
-title: MARKET REPORT - 18 Aug
+title: MARKET REPORT - 18 Aug 2025
 description: >-
   Cập nhật tổng quan thị trường và kế hoạch sắp tới
 author: duke
@@ -10,7 +10,7 @@ pin: true
 media_subpath: 'assets/img/posts/2025-08-18-market-report'
 image:
   path: /banner.png
-  alt: Market Report - Aug 18
+  alt: Market Report - 18 Aug 2025
 ---
 
 Hello anh em CỨ THẾ THÔI, vì có nhiều anh em đi làm tài chính truyền thống nên sẽ không update được thông tin thị trường thường xuyên, nên Duke sẽ update thông tin về Market mỗi 2 tuần 1 lần trong bản report này. Đây là món quà mình dành cho những anh em hay active trao đổi và chia sẻ trong Cộng đồng.
