@@ -128,7 +128,7 @@ Vào cuối năm 2023, $BTC đã đóng nến phá vỡ mốc $30K, vượt qua 
 ![Figure 16](/fig-16.png){: .center}
 _$BTC đang tôn trọng đường MA50 W1_
 
-Kể từ thời điểm đó, $BTC đã có những lần test lại đường MA50 khung tuần này và đều tôn trọng nó, hiện tại Duke vẫn đang bias rằng $BTC sẽ phải test lại đây một lần nữa. Đó chính là lý do vì sao Duke luôn view rằng $BTC sẽ có khả năng điều.
+Kể từ thời điểm đó, $BTC đã có những lần test lại đường MA50 khung tuần này và đều tôn trọng nó, hiện tại Duke vẫn đang bias rằng $BTC sẽ phải test lại đây một lần nữa. Đó chính là lý do vì sao Duke luôn view rằng $BTC sẽ có khả năng điều chỉnh về vùng $100K.
 
 ### Câu hỏi đặt ra là, vậy $BTC đã downtrend chưa?
 
