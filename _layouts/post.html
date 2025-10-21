@@ -16,6 +16,8 @@ script_includes:
 
 <article class="px-1" data-toc="{{ enable_toc }}">
   <header>
+    <script src="https://widgets.coingecko.com/gecko-coin-price-marquee-widget.js"></script>
+    <gecko-coin-price-marquee-widget locale="en" transparent-background="true" outlined="true" coin-ids="bitcoin,ethereum,sui,solana,binancecoin,chainlink,near,dogecoin,hyperliquid,pepe" initial-currency="usd"></gecko-coin-price-marquee-widget>
     <h1 data-toc-skip>{{ page.title }}</h1>
     {% if page.description %}
       <p class="post-desc fw-light mb-4">{{ page.description }}</p>
