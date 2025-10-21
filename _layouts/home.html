@@ -9,7 +9,9 @@ refactor: true
 {% assign all_normal = site.posts | where_exp: 'item', 'item.pin != true and item.hidden != true' %}
 
 {% assign posts = '' | split: '' %}
-
+<script src="https://widgets.coingecko.com/gecko-coin-price-marquee-widget.js"></script>
+<gecko-coin-price-marquee-widget locale="en" transparent-background="true" outlined="true" coin-ids="bitcoin,ethereum,sui,solana,binancecoin,chainlink,near,dogecoin,hyperliquid,pepe" initial-currency="usd"></gecko-coin-price-marquee-widget>
+    
 <!-- Get pinned posts on current page -->
 
 {% assign visible_start = paginator.page | minus: 1 | times: paginator.per_page %}
