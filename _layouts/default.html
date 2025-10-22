@@ -37,6 +37,8 @@ layout: compress
             <div class="access">
               {% include_cached update-list.html lang=lang %}
               {% include_cached trending-tags.html lang=lang %}
+              <script src="https://widgets.coingecko.com/gecko-coin-heatmap-widget.js"></script>
+              <gecko-coin-heatmap-widget locale="en" outlined="true" top="50"></gecko-coin-heatmap-widget>
             </div>
 
             {% for _include in layout.panel_includes %}
