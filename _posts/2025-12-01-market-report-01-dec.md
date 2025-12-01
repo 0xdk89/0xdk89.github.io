@@ -1,7 +1,7 @@
 ---
 title: MARKET REPORT - 01 Dec 2025
 description: >-
-  Nhóm Long-term vẫn tiếp tục duy trì việc phân phối, $BTC đang ở giai đoạn nhạy cảm hơn bao giờ hết trong khi $ETH đang gần vùng hỗ trợ tiềm năng. Đường MA50 khung tuần vẫn được bảo toàn nhưng rủi ro cuối chu kỳ hiện hữu ngày một rõ ràng hơn!
+  Con sóng A đã ngày một rõ ràng hơn. $BTC hồi phục về mốc $92K nhưng ngay sau đó quay đầu điều chỉnh về $87K. Vùng $84K có thể là vùng đáy nhưng cần thật sự cẩn trọng trong giai đoạn này.
 author: duke
 date: 2025-12-01 00:00:00 +0700
 categories: [Market Report]
@@ -15,8 +15,8 @@ image:
 
 ## Tóm tắt Report
 
-* $BTC hồi phục lên mốc $106K sau khi đi vào vùng cấm địa $99K. Hàng loạt kháng cự ở phía trước.
-* Short-Term Holders đã ở trong vùng pain được 2 tuần. Long-term Holders tiếp tục phân phối.
+* $BTC hồi phục lên mốc $92K sau khi tìm về mốc $81K. Con sóng A vẫn chưa hoàn thành?
+* Short-Term Holders đã ở trong vùng pain hơn 1 tháng. Long-term Holders tiếp tục phân phối mạnh mẽ.
 * Cập nhật vị trí của chúng ta trong con sóng A khung tuần.
 
 ## Tuyên bố trách nhiệm
